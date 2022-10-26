@@ -3,7 +3,7 @@
 [![twitter](https://img.shields.io/twitter/follow/luojie710?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/luojie710)
 [![github](https://img.shields.io/github/followers/luojiego?logo=github&style=plastic)](https://github.com/luojiego?tab=followers)
 
-- 👋 Hi, I’m @luojiego
+- 👋 I’m currently working on [Letui Games](https://www.letuinet.com/)
 - 👀 I’m interested in Go, C++, Rust...
 - 🌱 I’m currently learning bisic computer knowledge and English.
 
