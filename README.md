@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=luojiego&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luojiego&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luojiego&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 
 ### Hi, there 👋
 [![wakatime](https://wakatime.com/badge/user/3e8762fa-affe-4081-ba06-0ba2ad661306.svg)](https://wakatime.com/@3e8762fa-affe-4081-ba06-0ba2ad661306)
