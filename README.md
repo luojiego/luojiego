@@ -11,13 +11,32 @@
 [![twitter](https://img.shields.io/twitter/follow/luojie710?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/luojie710)
 [![github](https://img.shields.io/github/followers/luojiego?logo=github&style=plastic)](https://github.com/luojiego?tab=followers)
 
-- 👀 I’m interested in Go, C++, Javascript, Lua ...
-- 🌱 I’m currently learning bisic computer knowledge and English.
+## 👋 About Me
 
+🎮 Backend engineer with 10+ years of experience in game server development  
+🧱 Focused on online game architecture and core backend systems  
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-luojiego/luojiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 Former lead backend engineer on a match-3 casual game  
+  → Migrated it from single-player to online  
+  → Total revenue exceeded **600M**
+- 🕹️ Experienced in **merge / simulation / idle RPG / card games**
+- 🔧 Involved in full lifecycle development:  
+  accounts, save data, events, mail systems, GM tools, operations, and live issue handling
+- 🧩 Care more about **stability, maintainability, and long-term evolution** than quick wins
+
+### 🛠 Tech Stack
+- 💻 **Languages:** Go, C++, JavaScript / TypeScript
+- 🏗️ **Backend:** Game servers, distributed systems, live ops support
+
+### 🌍 Life
+- 📍 Based in **Xi’an, China**
+- 👨‍👦‍👦 Father of two boys  
+- 🔁 Turning coffee, time, and sleep into server uptime
+
+### 📚 Interests
+- 📖 Learning & reading
+- 🎯 Playing casual games (and overthinking their design)
+
+### 💼 Consulting
+- 💬 Paid consulting on **game backend architecture & engineering**
+- 📧 Contact: **marked.41centric@icloud.com**
