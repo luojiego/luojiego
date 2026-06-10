@@ -39,4 +39,4 @@
 
 ### 💼 Consulting
 - 💬 Paid consulting on **game backend architecture & engineering**
-- 📧 Contact: **marked.41centric@icloud.com**
+- 📧 Contact: **i@luojie.dev**
