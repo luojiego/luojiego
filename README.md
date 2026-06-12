@@ -26,7 +26,6 @@
 - 🏗️ **Backend:** Game servers, distributed systems, live ops support
 
 ### 🌍 Life
-- 📍 Based in **Xi’an, China**
 - 👨‍👦‍👦 Father of two boys  
 - 🔁 Turning coffee, time, and sleep into server uptime
 
