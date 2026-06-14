@@ -5,7 +5,7 @@
 
 ### Hi, there 👋
 [![wakatime](https://wakatime.com/badge/user/3e8762fa-affe-4081-ba06-0ba2ad661306.svg)](https://wakatime.com/@3e8762fa-affe-4081-ba06-0ba2ad661306)
-[![twitter](https://img.shields.io/twitter/follow/luojie710?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/luojie710)
+[![twitter](https://img.shields.io/twitter/follow/luojiedev?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/luojie710)
 [![github](https://img.shields.io/github/followers/luojiedev?logo=github&style=plastic)](https://github.com/luojiedev?tab=followers)
 
 ## 👋 About Me
